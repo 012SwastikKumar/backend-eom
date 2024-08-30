@@ -1,0 +1,121 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+
+# Translations
+*.mo
+*.pot
+
+# Flask specific files
+instance/
+*.sqlite3
+*.db
+
+# Flask environment files
+.env
+.venv/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Celery beat schedule files
+celerybeat-schedule
+
+# Environments
+.env
+*.env
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# Local settings
+local_settings.py
+
+# Pyre type checker
+.pyre/
+
+# Jupyter Notebook files
+.ipynb_checkpoints/
+
+# macOS specific files
+.DS_Store
+
+# Logs and database files
+*.log
+*.sqlite
+*.sqlite3
+*.db
+
+# Python packaging
+*.egg-info/
+*.egg
+dist/
+build/
+*.egg-info/
+.cache
+.pip/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# pytest
+.cache/
+
+# Coverage
+coverage/
+coverage.xml
+.cache/
+
+# Ignore current files and folders
+frontend/
+images/
+BAckendFLask.iml
+clip_model.pth
